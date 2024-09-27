@@ -130,7 +130,7 @@ export default function NotesApp() {
 
   // JSX return statement rendering the Notes App UI
   return (
-    <div className="flex flex-col h-screen bg-background text-foreground">
+    <div className="flex flex-col h-screen bg-background text-foreground text-black">
       <header className="bg-muted p-4 shadow">
         <h1 className="text-2xl font-bold">Note Taker</h1>
       </header>
